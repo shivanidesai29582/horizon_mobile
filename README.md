@@ -1,1 +1,1 @@
-" horizon_mobile" 
+horizon_mobile
